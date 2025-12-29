@@ -6,3 +6,4 @@ print(a / b)
 """Исправление предыдущего функционала"""
 print('print')
 print('s')
+print('sasadaksdkjnljnf  ')
